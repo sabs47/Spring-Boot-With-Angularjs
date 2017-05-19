@@ -1,12 +1,12 @@
-package com.example.demo;
+package com.example.sabs47;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class UiApplication {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(UiApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 }
